@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Data%20Scientist%20|%20NT%20Digital%20Excellence%202025;Multi-Hackathon%20Champion%20|%20ML%20%26%20Full%20Stack;Building%20AI%20for%20Social%20Impact%20%26%20Innovation&center=true&width=500&height=45&color=FA4549&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Data%20Scientist%20;%20ML%20%26%20Full%20Stack;Building%20AI%20%20Social%20Impact%20%26%20Innovation&center=true&width=500&height=45&color=FA4549&vCenter=true&pause=1000&size=22" />
 </p>
 
 ### 👋 Hey there, I'm Avery!
