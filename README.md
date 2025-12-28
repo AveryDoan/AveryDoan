@@ -9,7 +9,7 @@
 
 ### 👋 Hey there, I'm Avery!
 
-I'm a **Data Scientist and Software Engineer** currently pursuing my **Master of Information Technology** at Charles Darwin University. I thrive at the intersection of data-driven storytelling, machine learning, and human-centered design. 
+I'm a **Data Scientist** currently pursuing my **Master of Information Technology** at Charles Darwin University. I thrive at the intersection of data-driven storytelling, machine learning, and human-centered design. 
 
 In 2025, I was honored as the **Most Outstanding Entrant** at the NT Digital Excellence Awards after sweeping three major categories at the CDU IT Code Fair. I'm passionate about building tools that solve civic problems and enhance human performance.
 
