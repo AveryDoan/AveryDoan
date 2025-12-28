@@ -4,52 +4,83 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=A%20builder,%20An%20explorer,%20A%20learner;Data%20and%20Software%20Engineer;3%20years%20of%20coding%20experience&center=true&width=440&height=45&color=FA4549&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Data%20Scientist%20|%20NT%20Digital%20Excellence%202025;Multi-Hackathon%20Champion%20|%20ML%20%26%20Full%20Stack;Building%20AI%20for%20Social%20Impact%20%26%20Innovation&center=true&width=500&height=45&color=FA4549&vCenter=true&pause=1000&size=22" />
 </p>
-- 🌱 I’m currently learning **Machine Learning and Full Stack**
 
-- 💬 Ask me about **Python and DSA.**
+### 👋 Hey there, I'm Avery!
 
-- 📫 How to reach me **harrymystogan@gmail.com**
+I'm a **Data Scientist and Software Engineer** currently pursuing my **Master of Information Technology** at Charles Darwin University. I thrive at the intersection of data-driven storytelling, machine learning, and human-centered design. 
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/avery-doan-844093174/](https://www.linkedin.com/in/avery-doan-844093174/)
+In 2025, I was honored as the **Most Outstanding Entrant** at the NT Digital Excellence Awards after sweeping three major categories at the CDU IT Code Fair. I'm passionate about building tools that solve civic problems and enhance human performance.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/avery-doan-844093174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avery-doan-844093174/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/averydoanaveryd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/averydoanaveryd" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/avery_doan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/avery_doan/" height="30" width="40" /></a>
-</p>
+- 🏆 **Recent Wins:** 
+  - **NT Digital Excellence Award 2025** - Most Outstanding Entrant
+  - **RIMPA Global Hackathon 2025** - Winner ($10k Award)
+  - **CDU IT Code Fair 2025** - Winner in Business Innovation, Research, and Coding categories
+  - **GovHack 2025** - 1st Place (CivicConnect)
+- 🌱 I’m currently specializing in **Machine Learning (CV/NLP), Geo-Analytics, and MLOps.**
+- 💬 Ask me about **Computer Vision, SEO Analytics, or action-recognition pipelines.**
+- 📫 Reach me at: **harrymystogan@gmail.com**
+
+---
+
+### 🏆 Featured Achievements
+
+| Project | Award | Outcome |
+| :--- | :--- | :--- |
+| **NT Shift Surge** | Winner: Business Innovation | On-demand labor marketplace for Darwin's wet season. |
+| **Stress Detection Prototype** | Winner: Research Competition | Privacy-first biometrics using facial HRV and thermal imaging. |
+| **Action Recognition Stack** | Winner: Coding Competition | Real-time gesture prediction using MediaPipe + LSTM. |
+| **Carbon Tracking Dashboard** | Winner: RIMPA Hackathon | ESG visualization for enterprise records management. |
+
+---
 
 <details open>
   <summary><h2>🛠️ My Stacks</h2></summary>
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+
+  ### 👨‍💻 Programming & Core
   <p>
-    <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-    <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   </p>
-  <h3>🧰 Frameworks and Libraries</h3>
+
+  ### 🤖 Data Science & ML
   <p>
-    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?logo=apachespark&logoColor=black">
-    <img alt="Djano" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
-    <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
-    <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
-    <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white">
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white">
+    <img alt="HuggingFace" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E.svg?style=flat&logoColor=black">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+    <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white">
+    <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-00B0FF?style=flat&logoColor=white">
   </p>
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+
+  ### ☁️ Platforms & BI
   <p>
-    <img alt="AWS" src="https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white">
-    <img alt="Azure" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
-    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
-    <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white">
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white">
+    <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white">
+    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
+    <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat&logo=mongodb&logoColor=white">
   </p>
 </details>
 
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=AveryDoan&show_icons=true&theme=vibrant&hide_border=true&count_private=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AveryDoan&layout=compact&theme=vibrant&hide_border=true" height="150" />
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/averydoan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://kaggle.com/averydoanaveryd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/avery_doan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
