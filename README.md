@@ -9,17 +9,17 @@
 
 ### 👋 Hey there, I'm Avery!
 
-I'm a **Data Scientist** currently pursuing my **Master of Information Technology** at Charles Darwin University. I'm doing all kind of projects related to Machine Learning model. Biased Random Forest :)
+I'm a **Data Scientist** and I'm doing all kind of fun projects (inc electronics and mechanical as well).  :)
 
-In 2025, I was honored as the **Most Outstanding Entrant** at the NT Digital Excellence Awards after sweeping three major categories at the CDU IT Code Fair. I'm passionate about building tools that solve civic problems and enhance human performance.
+In 2025, I was honored as the **Most Outstanding Entrant** at the NT Digital Excellence Awards after sweeping three major categories at the CDU IT Code Fair. I'm passionate about building tools.
 
 - 🏆 **Recent Wins:** 
   - **NT Digital Excellence Award 2025** - Most Outstanding Entrant
   - **RIMPA Global Hackathon 2025** - Winner ($10k Award)
   - **CDU IT Code Fair 2025** - Winner in Business Innovation, Research, and Coding categories
   - **GovHack 2025** - 1st Place (CivicConnect)
-- 🌱 I’m currently specializing in **Machine Learning (CV/NLP), Geo-Analytics, and MLOps.**
-- 💬 Ask me about **Computer Vision, SEO Analytics, or action-recognition pipelines.**
+-  I’m currently fascinating about **how people come up with those ML models**.
+- 💬 Ask me about **Computer Vision, and anything related to data**. I'm still learning but got quite comfortable in Data field.
 - 📫 Reach me at: **harrymystogan@gmail.com**
 
 ---
