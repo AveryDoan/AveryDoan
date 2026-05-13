@@ -32,7 +32,7 @@ In 2025, I was honored as the **Most Outstanding Entrant** at the NT Digital Exc
 | **Stress Detection Prototype** | Winner: Research Competition | Privacy-first biometrics using facial HRV and thermal imaging. |
 | **Action Recognition Stack** | Winner: Coding Competition | Real-time gesture prediction using MediaPipe + LSTM. |
 | **Carbon Tracking Dashboard** | Winner: RIMPA Hackathon | ESG visualization for enterprise records management. |
-
+| **Civic Connect** | Winner: GovHack 2025 | Gamified web for a new 'Aussie' |
 ---
 
 <details open>
